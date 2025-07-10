@@ -9,7 +9,8 @@ payload:
   - DOMAIN-SUFFIX,minghui.org    # 明慧网，法轮功核心网站，报道迫害案例，反共
   - DOMAIN-SUFFIX,fgmtv.org      # 法轮功媒体，含反共视频内容
   - DOMAIN-SUFFIX,shenyun.com    # 神韵艺术团，法轮功文化宣传，反共
-  - DOMAIN-SUFFIX,pincong.rocks  # 品葱，政治讨论论坛，反共倾向，神友常用
+  - DOMAIN-SUFFIX,newhighlandvision.com  # 新高地，海外民运，反共
+  - DOMAIN-SUFFIX,hrichina.org   # 中国人权，关注人权议题，反共
   - DOMAIN-SUFFIX,minzhuzhongguo.org  # 民主中国，倡导民主，反共刊物
   - DOMAIN-SUFFIX,bannedbook.org  # 禁闻网，报道敏感政治新闻，反共
   - DOMAIN-SUFFIX,dforce.cc       # 澳大利亚民主战车，海外民运，反共
@@ -22,7 +23,6 @@ payload:
   - DOMAIN-SUFFIX,sixfourmuseum.org  # 六四記憶‧人權博物館，纪念六四，反共
   - DOMAIN-SUFFIX,usagm.gov      # 美国全球媒体机构，反共倾向
   - DOMAIN-SUFFIX,aei.org        # 美国企业研究所，批评中国政策
-  - DOMAIN-SUFFIX,greatfire.org  # GreatFire.org，监测网络审查，反共
   - DOMAIN-SUFFIX,hrw.org        # 人权观察，批评中国人权
   - DOMAIN-SUFFIX,freedomhouse.org  # 自由之家，倡导民主，反共
   - DOMAIN-SUFFIX,aspi.org.au    # 澳大利亚战略政策研究所，批评中国政策
@@ -30,7 +30,6 @@ payload:
   - DOMAIN-SUFFIX,amnesty.org    # 国际特赦组织，批评中国人权
   - DOMAIN-SUFFIX,bitterwinter.org  # 寒冬杂志，报道宗教自由，反共
   - DOMAIN-SUFFIX,2049project.org  # 2049计划，讨论中国政治未来，反共
-  - DOMAIN-SUFFIX,zhina.wiki     # 中文维基，报道敏感政治内容，反共
   - DOMAIN-SUFFIX,chinauncensored.tv  # 中国无码，反共视频平台
   - DOMAIN-SUFFIX,rfa.org        # 自由亚洲电台，批评中国政策，反共
   - DOMAIN-SUFFIX,soundofhope.org  # 希望之声，反共媒体
