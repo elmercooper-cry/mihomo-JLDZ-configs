@@ -1,7 +1,5 @@
-# Clash Meta RULE-SET for Blocking Chinese "Overseas" Websites with Anti-CCP or Extreme/Edge Ideologies
-# Note: This list includes websites blocked by China's Great Firewall, identified as anti-CCP or promoting extreme/edge ideologies, including those used by "神友" (pro-democracy/anti-CCP communities), "网左" (left-wing communities), "白左" (Western progressive/PC communities), anarchists, and historical issue websites critical of PRC stance. Mainstream media (e.g., BBC, VOA) and social platforms (e.g., X/Twitter, Weibo) are excluded.
 payload:
-  # 反华反共相关网站（Anti-China and Anti-CCP Websites）
+# 反华反共相关网站（Anti-China and Anti-CCP Websites）
   - DOMAIN-SUFFIX,epochtimes.com  # 大纪元时报，法轮功相关，反共宣传
   - DOMAIN-SUFFIX,ntdtv.com      # 新唐人电视台，法轮功相关，反共内容
   - DOMAIN-SUFFIX,falundafa.org  # 法轮大法官网，宗教与反共立场
