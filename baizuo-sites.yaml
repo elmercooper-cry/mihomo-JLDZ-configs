@@ -1,15 +1,14 @@
 payload:
-  # 互联网与信息自由组织
-  - DOMAIN-SUFFIX,eff.org        # 电子前沿基金会，数字权利，反审查
-  - DOMAIN-SUFFIX,gijn.org       # 全球调查新闻网络，含中国敏感报道
-  - DOMAIN-SUFFIX,article19.org  # 第19条，捍卫言论自由
-  - DOMAIN-SUFFIX,ooni.io        # OONI，监测网络审查
-  - DOMAIN-SUFFIX,newsguardtech.com  # NewsGuard，评估信息可靠性
-  - DOMAIN-SUFFIX,freedom.press   # 新闻自由基金会，倡导新闻自由
   # 白左意识形态网站（Western Progressive/PC Communities）
   - DOMAIN-SUFFIX,sweetbabyinc.com  # Sweet Baby Inc，游戏行业多元咨询，白左相关
-  - DOMAIN-SUFFIX,deidetected.com  # 反DEI网站，意识形态争议，白左相关
-  - DOMAIN-SUFFIX,deiwatchdog.com  # 批评DEI政策，意识形态争议，白左相关
+  - DOMAIN-SUFFIX,diversityinc.com
+  - DOMAIN-SUFFIX,deiworkplace.com
+  - DOMAIN-SUFFIX,outrightinternational.org
+  - DOMAIN-SUFFIX,humanrightsfirst.org
+  - DOMAIN-SUFFIX,everydayfeminism.com
+  - DOMAIN-SUFFIX,feministfrequency.com
+  - DOMAIN-SUFFIX,extinctionrebellion.uk
+  - DOMAIN-SUFFIX,greenpeace.org
   - DOMAIN-SUFFIX,thatsgenderdysphoria.fyi  # 性别议题，多元平权，白左相关
   - DOMAIN-SUFFIX,jacobin.com    # 美国左翼杂志，社会主义，白左相关
   - DOMAIN-SUFFIX,thenation.com  # 美国左翼杂志，进步主义，白左相关
