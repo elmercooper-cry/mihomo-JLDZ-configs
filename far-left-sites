@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-SUFFIX,marxists.org   # 马克思主义档案网，左翼理论，反资本主义，网左引用
+  - DOMAIN-SUFFIX,icl-fi.org     # 国际共产主义联盟，激进左翼，网左相关
+  - DOMAIN-SUFFIX,rls.de         # 罗莎·卢森堡基金会，左翼智库，网左相关
+  - DOMAIN-SUFFIX,wsws.org       # 世界社会主义网站，马克思主义，网左引用
+  - DOMAIN-SUFFIX,communist.red  # 革命共产主义党，激进左翼，网左相关
+  - DOMAIN-SUFFIX,marxist.com    # 国际马克思主义，左翼理论，网左引用
+  - DOMAIN-SUFFIX,cpusa.org      # 美国共产党，左翼组织，网左相关
+  - DOMAIN-SUFFIX,monthlyreview.org  # 独立社会主义杂志，反资本主义，网左相关
+  - DOMAIN-SUFFIX,socialistworker.org  # 社会主义工人，左翼新闻，网左引用
+  - DOMAIN-SUFFIX,peoplesworld.org  # 人民世界，左翼新闻，兼属白左与网左
+  - DOMAIN-SUFFIX,progressive.org  # 进步杂志，左翼新闻，兼属白左与网左
+  - DOMAIN-SUFFIX,bu2021.xyz
+  - DOMAIN-SUFFIX,chinaworker.info
+  - DOMAIN-SUFFIX,redchinacn.net
