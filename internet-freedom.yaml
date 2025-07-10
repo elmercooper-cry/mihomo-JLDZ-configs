@@ -1,0 +1,8 @@
+payloads:
+# 互联网与信息自由组织
+  - DOMAIN-SUFFIX,eff.org        # 电子前沿基金会，数字权利，反审查
+  - DOMAIN-SUFFIX,gijn.org       # 全球调查新闻网络，含中国敏感报道
+  - DOMAIN-SUFFIX,article19.org  # 第19条，捍卫言论自由
+  - DOMAIN-SUFFIX,ooni.io        # OONI，监测网络审查
+  - DOMAIN-SUFFIX,newsguardtech.com  # NewsGuard，评估信息可靠性
+  - DOMAIN-SUFFIX,freedom.press   # 新闻自由基金会，倡导新闻自由
