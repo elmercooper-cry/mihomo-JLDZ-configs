@@ -1,0 +1,11 @@
+payload:
+  # 无政府主义相关网站（Anarchist Communities）
+  - DOMAIN-SUFFIX,anarchistlibraries.net  # 中文无治主义图书馆，无政府主义文献
+  - DOMAIN-SUFFIX,iyouport.org   # iYouPort，倡导信息自由，无政府主义
+  - DOMAIN-SUFFIX,iyouport.com   # iYouPort变体，无政府主义相关
+  - DOMAIN-SUFFIX,iyouport.net   # iYouPort变体，无政府主义相关
+  - DOMAIN-SUFFIX,iyouport.notion.site  # iYouPort Notion子域名，无政府主义相关
+  - DOMAIN-SUFFIX,anarchiststudies.org  # 无政府主义研究，倡导无政府主义
+  - DOMAIN-SUFFIX,crimethinc.com  # 无政府主义刊物，反权威
+  - DOMAIN-SUFFIX,libcom.org     # 自由共产主义图书馆，无政府主义内容
+  - DOMAIN-SUFFIX,polcompball-anarchy.miraheze.org
