@@ -1,0 +1,7 @@
+payload:
+# 神友常用网站（Pro-Democracy/Anti-CCP Communities）
+  - DOMAIN-SUFFIX,pincong.rocks  # 品葱，政治讨论论坛，反共倾向，神友常用
+  - DOMAIN-SUFFIX,2047.one      # 2047论坛，政治讨论，反共，神友活跃地
+  - DOMAIN-SUFFIX,chonglang.tv   # ChonglangTV，反共论坛，神友活跃地
+  - DOMAIN-SUFFIX,996.icu        # 996.ICU，抗议996工作制，反共倾向
+  - DOMAIN-SUFFIX,611study.icu  # 611学习，神友活跃地
