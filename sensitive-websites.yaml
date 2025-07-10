@@ -1,0 +1,111 @@
+# Merged Sensitive Websites List for Mihomo
+rules:
+  # Rules from anti-cn-sites.yaml
+  # 反华反共相关网站（Anti-China and Anti-CCP Websites）
+  - DOMAIN-SUFFIX,epochtimes.com  # 大纪元时报，法轮功相关，反共宣传
+  - DOMAIN-SUFFIX,ntdtv.com      # 新唐人电视台，法轮功相关，反共内容
+  - DOMAIN-SUFFIX,falundafa.org  # 法轮大法官网，宗教与反共立场
+  - DOMAIN-SUFFIX,ganjingworld.com  # 乾净世界，法轮功相关视频平台，反共宣传
+  - DOMAIN-SUFFIX,minghui.org    # 明慧网，法轮功核心网站，报道迫害案例，反共
+  - DOMAIN-SUFFIX,fgmtv.org      # 法轮功媒体，含反共视频内容
+  - DOMAIN-SUFFIX,shenyun.com    # 神韵艺术团，法轮功文化宣传，反共
+  - DOMAIN-SUFFIX,newhighlandvision.com  # 新高地，海外民运，反共
+  - DOMAIN-SUFFIX,hrichina.org   # 中国人权，关注人权议题，反共
+  - DOMAIN-SUFFIX,minzhuzhongguo.org  # 民主中国，倡导民主，反共刊物
+  - DOMAIN-SUFFIX,bannedbook.org  # 禁闻网，报道敏感政治新闻，反共
+  - DOMAIN-SUFFIX,dforce.cc       # 澳大利亚民主战车，海外民运，反共
+  - DOMAIN-SUFFIX,huanghuagang.org  # 黄花岗，纪念反清与反共运动
+  - DOMAIN-SUFFIX,boxun.com      # 博讯网，批评中国政治，海外新闻
+  - DOMAIN-SUFFIX,chinadigitaltimes.net  # 中国数字时代，报道中国网络审查，反共
+  - DOMAIN-SUFFIX,tibet.net      # 中央藏人行政中央，倡导藏独
+  - DOMAIN-SUFFIX,uyghurcongress.org  # 世界维吾尔大会，维吾尔人权
+  - DOMAIN-SUFFIX,tibetanyouthcongress.org  # 藏族青年大会，藏独倡导
+  - DOMAIN-SUFFIX,sixfourmuseum.org  # 六四記憶‧人權博物館，纪念六四，反共
+  - DOMAIN-SUFFIX,usagm.gov      # 美国全球媒体机构，反共倾向
+  - DOMAIN-SUFFIX,aei.org        # 美国企业研究所，批评中国政策
+  - DOMAIN-SUFFIX,hrw.org        # 人权观察，批评中国人权
+  - DOMAIN-SUFFIX,freedomhouse.org  # 自由之家，倡导民主，反共
+  - DOMAIN-SUFFIX,aspi.org.au    # 澳大利亚战略政策研究所，批评中国政策
+  - DOMAIN-SUFFIX,frontlinedefenders.org  # 前线卫士，人权组织
+  - DOMAIN-SUFFIX,amnesty.org    # 国际特赦组织，批评中国人权
+  - DOMAIN-SUFFIX,bitterwinter.org  # 寒冬杂志，报道宗教自由，反共
+  - DOMAIN-SUFFIX,2049project.org  # 2049计划，讨论中国政治未来，反共
+  - DOMAIN-SUFFIX,chinauncensored.tv  # 中国无码，反共视频平台
+  - DOMAIN-SUFFIX,rfa.org        # 自由亚洲电台，批评中国政策，反共
+  - DOMAIN-SUFFIX,soundofhope.org  # 希望之声，反共媒体
+  - DOMAIN-SUFFIX,ned.org        # 国家民主基金会，资助民主运动
+  - DOMAIN-SUFFIX,chinaaid.org   # 对华援助协会，关注中国宗教自由
+  - DOMAIN-SUFFIX,rsf.org        # 记者无国界，批评中国新闻自由
+  - DOMAIN-SUFFIX,pen.org        # 国际笔会，倡导言论自由
+  - DOMAIN-SUFFIX,transparency.org  # 透明国际，批评中国腐败
+  - DOMAIN-SUFFIX,chinadialogue.net  # 中国对话，讨论中国环境与政治
+  - DOMAIN-SUFFIX,chinachange.org  # 中国变革，报道中国政治与人权
+  - DOMAIN-SUFFIX,prchistory.org  # PRC History Group，学术研究中国历史，含敏感内容
+  - DOMAIN-SUFFIX,ucsdmodernchinesehistory.wordpress.com  # UCSD现代中国历史研究，学术博客，含文革研究
+  - DOMAIN-SUFFIX,tiananmenmothers.org  # 天安门母亲，倡导六四事件受害者权利
+  - DOMAIN-SUFFIX,june4.org       # 六四遗产与文化协会，纪念六四事件
+  - DOMAIN-SUFFIX,chineselawandhistory.com  # 中国法律与历史博客，学术研究，含敏感历史话题
+  - DOMAIN-SUFFIX,chinachange.org  # 中国变革，报道中国政治与人权，反共
+
+  # Rules from shenyou-sites.yaml
+  # 神友常用网站
+  - DOMAIN-SUFFIX,pincong.rocks  # 品葱，政治讨论论坛，反共倾向，神友常用
+  - DOMAIN-SUFFIX,2047.one      # 2047论坛，政治讨论，反共，神友活跃地
+  - DOMAIN-SUFFIX,zhina.wiki     # zhina维基，神友支黑反共
+  - DOMAIN-SUFFIX,chonglang.tv   # ChonglangTV，反共论坛，神友活跃地
+  - DOMAIN-SUFFIX,996.icu        # 996.ICU，抗议996工作制，反共倾向
+  - DOMAIN-SUFFIX,611study.icu  # 611学习，神友活跃地
+  
+  # Rules from far-left-sites.yaml
+  - DOMAIN-SUFFIX,marxists.org   # 马克思主义档案网，左翼理论，反资本主义，网左引用
+  - DOMAIN-SUFFIX,icl-fi.org     # 国际共产主义联盟，激进左翼，网左相关
+  - DOMAIN-SUFFIX,rls.de         # 罗莎·卢森堡基金会，左翼智库，网左相关
+  - DOMAIN-SUFFIX,wsws.org       # 世界社会主义网站，马克思主义，网左引用
+  - DOMAIN-SUFFIX,communist.red  # 革命共产主义党，激进左翼，网左相关
+  - DOMAIN-SUFFIX,marxist.com    # 国际马克思主义，左翼理论，网左引用
+  - DOMAIN-SUFFIX,cpusa.org      # 美国共产党，左翼组织，网左相关
+  - DOMAIN-SUFFIX,monthlyreview.org  # 独立社会主义杂志，反资本主义，网左相关
+  - DOMAIN-SUFFIX,socialistworker.org  # 社会主义工人，左翼新闻，网左引用
+  - DOMAIN-SUFFIX,peoplesworld.org  # 人民世界，左翼新闻，兼属白左与网左
+  - DOMAIN-SUFFIX,progressive.org  # 进步杂志，左翼新闻，兼属白左与网左
+  - DOMAIN-SUFFIX,bu2021.xyz
+  - DOMAIN-SUFFIX,chinaworker.info
+  - DOMAIN-SUFFIX,redchinacn.net
+
+  # Rules from baizuo-sites.yaml
+  # 白左意识形态网站（Western Progressive/PC Communities）
+  - DOMAIN-SUFFIX,sweetbabyinc.com  # Sweet Baby Inc，游戏行业多元咨询，白左相关
+  - DOMAIN-SUFFIX,diversityinc.com
+  - DOMAIN-SUFFIX,deiworkplace.com
+  - DOMAIN-SUFFIX,outrightinternational.org
+  - DOMAIN-SUFFIX,humanrightsfirst.org
+  - DOMAIN-SUFFIX,everydayfeminism.com
+  - DOMAIN-SUFFIX,feministfrequency.com
+  - DOMAIN-SUFFIX,extinctionrebellion.uk
+  - DOMAIN-SUFFIX,greenpeace.org
+  - DOMAIN-SUFFIX,thatsgenderdysphoria.fyi  # 性别议题，多元平权，白左相关
+  - DOMAIN-SUFFIX,jacobin.com    # 美国左翼杂志，社会主义，白左相关
+  - DOMAIN-SUFFIX,thenation.com  # 美国左翼杂志，进步主义，白左相关
+  - DOMAIN-SUFFIX,dissentmagazine.org  # 美国左翼评论，政治正确，白左相关
+  
+  # Rules from internet-freedom.yaml
+  # 互联网与信息自由组织
+  - DOMAIN-SUFFIX,eff.org        # 电子前沿基金会，数字权利，反审查
+  - DOMAIN-SUFFIX,gijn.org       # 全球调查新闻网络，含中国敏感报道
+  - DOMAIN-SUFFIX,article19.org  # 第19条，捍卫言论自由
+  - DOMAIN-SUFFIX,ooni.io        # OONI，监测网络审查
+  - DOMAIN-SUFFIX,newsguardtech.com  # NewsGuard，评估信息可靠性
+  - DOMAIN-SUFFIX,freedom.press   # 新闻自由基金会，倡导新闻自由
+
+  # Rules from anarchy-sites.yaml
+  # 无政府主义相关网站（Anarchist Communities）
+  - DOMAIN-SUFFIX,anarchistlibraries.net  # 中文无治主义图书馆，无政府主义文献
+  - DOMAIN-SUFFIX,iyouport.org   # iYouPort，倡导信息自由，无政府主义
+  - DOMAIN-SUFFIX,iyouport.com   # iYouPort变体，无政府主义相关
+  - DOMAIN-SUFFIX,iyouport.net   # iYouPort变体，无政府主义相关
+  - DOMAIN-SUFFIX,iyouport.notion.site  # iYouPort Notion子域名，无政府主义相关
+  - DOMAIN-SUFFIX,anarchiststudies.org  # 无政府主义研究，倡导无政府主义
+  - DOMAIN-SUFFIX,crimethinc.com  # 无政府主义刊物，反权威
+  - DOMAIN-SUFFIX,libcom.org     # 自由共产主义图书馆，无政府主义内容
+  - DOMAIN-SUFFIX,polcompball-anarchy.miraheze.org
+  
