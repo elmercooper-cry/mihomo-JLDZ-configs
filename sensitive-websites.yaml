@@ -243,7 +243,6 @@ rules:
   - DOMAIN-SUFFIX,eff.org                         # Electronic Frontier Foundation
   - DOMAIN-SUFFIX,freedom.press                   # Freedom of the Press Foundation
   - DOMAIN-SUFFIX,gijn.org                        # Global Investigative Journalism Network
-  - DOMAIN-SUFFIX,hopto.org                       # Dynamic DNS service, often used for bypassing
   - DOMAIN-SUFFIX,iyouport.com                    # IYouPort, privacy and censorship
   - DOMAIN-SUFFIX,iyouport.net                    # IYouPort alternate domain
   - DOMAIN-SUFFIX,iyouport.notion.site            # IYouPort Notion site
