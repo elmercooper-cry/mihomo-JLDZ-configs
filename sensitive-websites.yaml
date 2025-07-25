@@ -1,12 +1,6 @@
 # Merged Sensitive Websites Rule Set for mihomo
 # DOMAIN-KEYWORD 能命中的网站不再保留 DOMAIN-SUFFIX
 # Categorized by type and stance with comments, sorted alphabetically
-
-type: http
-interval: 86400
-behavior: domain
-format: mrs
-
 rules:
   # === DOMAIN-KEYWORD 优先 ===
   # --- Human Rights and Freedom Advocacy ---
