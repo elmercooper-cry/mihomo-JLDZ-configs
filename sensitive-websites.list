@@ -7,11 +7,15 @@ DOMAIN-KEYWORD,chinaaid
  
 DOMAIN-KEYWORD,2047
 DOMAIN-KEYWORD,8964
+DOMAIN-KEYWORD,89-64
 DOMAIN-KEYWORD,anti-ccp
 DOMAIN-KEYWORD,antichina
 DOMAIN-KEYWORD,chinaexile
 DOMAIN-KEYWORD,chinachange
 DOMAIN-KEYWORD,chinadigitaltimes
+DOMAIN-KEYWORD,chinesepen
+DOMAIN-KEYWORD,chrdnet
+DOMAIN-KEYWORD,cirosantilli
 DOMAIN-KEYWORD,democracychina
 DOMAIN-KEYWORD,dissent
 DOMAIN-KEYWORD,freechina
@@ -20,10 +24,12 @@ DOMAIN-KEYWORD,minzhuzhongguo
 DOMAIN-KEYWORD,sixfourmuseum
 DOMAIN-KEYWORD,tiananmen
 DOMAIN-KEYWORD,yesterdayprotests
-DOMAIN-KEYWORD,cirosantilli
-DOMAIN-KEYWORD,immediahk
+DOMAIN-KEYWORD,msguancha
+DOMAIN-KEYWORD,weijingsheng
+
 
 DOMAIN-KEYWORD,dalailama
+DOMAIN-KEYWORD,immediahk
 DOMAIN-KEYWORD,hkindependence
 DOMAIN-KEYWORD,separatist
 DOMAIN-KEYWORD,taiwanindependence
@@ -98,6 +104,8 @@ DOMAIN-KEYWORD,breakgfw
 DOMAIN-KEYWORD,dongtaiwang
 DOMAIN-KEYWORD,torproject
 DOMAIN-KEYWORD,wujieliulan
+DOMAIN-KEYWORD,psiphon
+DOMAIN-KEYWORD,lantern
  
 DOMAIN-SUFFIX,amnesty.org
 DOMAIN-SUFFIX,chinaaid.org
@@ -284,4 +292,5 @@ DOMAIN-SUFFIX,gashpoint.com
 DOMAIN-SUFFIX,irmct.org
 DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,taketla.zaiko.io
+
 DOMAIN-SUFFIX,ucsdmodernchinesehistory.wordpress.com
