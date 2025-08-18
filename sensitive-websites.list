@@ -211,6 +211,8 @@ DOMAIN-SUFFIX,iyouport.org
 DOMAIN-SUFFIX,newsguardtech.com
 DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,ultrasurf.us
+DOMAIN-SUFFIX,citizenlab.ca
+DOMAIN-SUFFIX,geph.io
 
 DOMAIN-SUFFIX,aei.org
 DOMAIN-SUFFIX,aspi.org.au
@@ -223,3 +225,4 @@ DOMAIN-SUFFIX,irmct.org
 DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,taketla.zaiko.io
 DOMAIN-SUFFIX,ucsdmodernchinesehistory.wordpress.com
+
