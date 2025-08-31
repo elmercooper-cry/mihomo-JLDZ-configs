@@ -63,7 +63,6 @@ DOMAIN-SUFFIX,aei.org
 DOMAIN-SUFFIX,aspi.org.au
 DOMAIN-SUFFIX,chinauncensored.tv
 DOMAIN-SUFFIX,dforce.cc
-DOMAIN-SUFFIX,efcc.org
 DOMAIN-SUFFIX,ucsdmodernchinesehistory.wordpress.com
 DOMAIN-SUFFIX,kan.gar.ooo
 
@@ -153,6 +152,7 @@ DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,christianstudy.com
 DOMAIN-SUFFIX,jw.org
 DOMAIN-SUFFIX,tgcchinese.org
+DOMAIN-SUFFIX,efcc.org
 
 # 有反华内容的主流媒体 (Mainstream Media with Anti-China Content)
 DOMAIN-KEYWORD,bbc
@@ -351,6 +351,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
