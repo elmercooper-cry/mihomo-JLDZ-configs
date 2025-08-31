@@ -260,6 +260,9 @@ DOMAIN-SUFFIX,sweetbabyinc.com
 # 自由主义 (Liberalism)
 DOMAIN-KEYWORD,dissent
 DOMAIN-SUFFIX,dissentmagazine.org
+DOMAIN-SUFFIX,libertarianism.org
+DOMAIN-SUFFIX,cato.org
+DOMAIN-SUFFIX,lp.org
 
 # 极端右派 (Radical Right)
 DOMAIN-KEYWORD,breitbart
@@ -301,6 +304,9 @@ DOMAIN-SUFFIX,iyouport.com
 DOMAIN-SUFFIX,iyouport.net
 DOMAIN-SUFFIX,iyouport.notion.site
 DOMAIN-SUFFIX,iyouport.org
+DOMAIN-SUFFIX,anarchyisorder.org
+DOMAIN-SUFFIX,anarchyinaction.org
+DOMAIN-SUFFIX,mises.org
 
 # 信息自由和隐私 (Information Freedom and Privacy)
 DOMAIN-KEYWORD,breakgfw
@@ -342,4 +348,5 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
