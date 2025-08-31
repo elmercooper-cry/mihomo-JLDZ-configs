@@ -314,11 +314,11 @@ DOMAIN-KEYWORD,dongtaiwang
 DOMAIN-KEYWORD,torproject
 DOMAIN-KEYWORD,wujieliulan
 DOMAIN-KEYWORD,psiphon
-DOMAIN-KEYWORD,lantern
 DOMAIN-KEYWORD,iyouport
 DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,edoors.com
+DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,ultrasurf.us
 DOMAIN-SUFFIX,citizenlab.ca
@@ -348,6 +348,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
