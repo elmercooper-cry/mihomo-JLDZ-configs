@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,chinauncensored.tv
 DOMAIN-SUFFIX,dforce.cc
 DOMAIN-SUFFIX,efcc.org
 DOMAIN-SUFFIX,ucsdmodernchinesehistory.wordpress.com
+DOMAIN-SUFFIX,kan.gar.ooo
 
 # 国内神殖反
 DOMAIN-KEYWORD,chonglang
@@ -268,7 +269,6 @@ DOMAIN-SUFFIX,lp.org
 DOMAIN-KEYWORD,breitbart
 DOMAIN-KEYWORD,thedailywire
 DOMAIN-KEYWORD,infowars
-DOMAIN-KEYWORD,gab
 DOMAIN-KEYWORD,stormfront
 DOMAIN-KEYWORD,dailystormer
 DOMAIN-KEYWORD,fdesouche
@@ -348,5 +348,6 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
