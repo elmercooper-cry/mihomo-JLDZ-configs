@@ -267,17 +267,27 @@ DOMAIN-KEYWORD,thedailywire
 DOMAIN-KEYWORD,infowars
 DOMAIN-KEYWORD,gab
 DOMAIN-KEYWORD,stormfront
+DOMAIN-KEYWORD,dailystormer
+DOMAIN-KEYWORD,fdesouche
 DOMAIN-SUFFIX,americanfreepress.net
 DOMAIN-SUFFIX,americanfreepress.us
 DOMAIN-SUFFIX,theblaze.com
 DOMAIN-SUFFIX,breitbart.com
+DOMAIN-SUFFIX,casapounditalia.org
 DOMAIN-SUFFIX,dailywire.com
+DOMAIN-SUFFIX,fdesouche.com
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,infowars.com
+DOMAIN-SUFFIX,jungefreiheit.de
+DOMAIN-SUFFIX,midgard.se
 DOMAIN-SUFFIX,stormfront.org
+DOMAIN-SUFFIX,unzensuriert.at
+DOMAIN-SUFFIX,venetofronteskinheads.org
+DOMAIN-SUFFIX,dailystormer.in
 DOMAIN-SUFFIX,election-fraud.com
 DOMAIN-SUFFIX,electionfraud.heritage.org
 DOMAIN-SUFFIX,heritage.org
+DOMAIN-SUFFIX,bloodandhonourworldwide.co.uk
 
 # 安那其或类似思潮 (Anarchist/Similar Ideologies)
 DOMAIN-KEYWORD,anarchist
@@ -313,6 +323,17 @@ DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,newsguardtech.com
 DOMAIN-SUFFIX,rsf.org
 
+# 敏感当局
+DOMAIN-SUFFIX,ait.org.tw
+DOMAIN-SUFFIX,mac.gov.tw
+DOMAIN-SUFFIX,mnd.gov.tw
+DOMAIN-SUFFIX,cecc.gov
+DOMAIN-SUFFIX,cia.gov
+DOMAIN-SUFFIX,sis.gov.uk
+DOMAIN-SUFFIX,asio.gov.au
+DOMAIN-SUFFIX,nsira-ossnr.gc.ca
+DOMAIN-SUFFIX,ipac.global
+
 # 其它 (Other)
 # 这些是出现在某些机场阻断名单上但是内容上无法判断的网站
 DOMAIN-SUFFIX,ad2iction.com
@@ -320,5 +341,5 @@ DOMAIN-SUFFIX,becomingaces.com
 DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
-
 DOMAIN-SUFFIX,sportsv.net
+
