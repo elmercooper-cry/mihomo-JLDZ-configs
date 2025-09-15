@@ -246,7 +246,6 @@ DOMAIN-SUFFIX,chuangcn.org
 DOMAIN-SUFFIX,jacobin.com
 DOMAIN-SUFFIX,monthlyreview.org
 DOMAIN-SUFFIX,socialistworker.org
-DOMAIN-SUFFIX,thenation.com
 
 # 极端白左 (Radical Social Justice/Woke)
 DOMAIN-KEYWORD,feminist
@@ -260,13 +259,13 @@ DOMAIN-SUFFIX,thatsgenderdysphoria.fyi
 DOMAIN-SUFFIX,diversityinc.com
 DOMAIN-SUFFIX,sweetbabyinc.com
 
-# 自由主义 (Liberalism)
+# 自由/进步主义 (Liberalism)
 DOMAIN-KEYWORD,dissent
 DOMAIN-SUFFIX,dissentmagazine.org
 DOMAIN-SUFFIX,libertarianism.org
 DOMAIN-SUFFIX,cato.org
 DOMAIN-SUFFIX,lp.org
-
+DOMAIN-SUFFIX,thenation.com
 # 极端右派 (Radical Right)
 DOMAIN-KEYWORD,breitbart
 DOMAIN-KEYWORD,thedailywire
@@ -352,6 +351,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
