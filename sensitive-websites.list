@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,996.icu
 DOMAIN-SUFFIX,program-think.blogspot.com
 DOMAIN-SUFFIX,shu.best
 DOMAIN-SUFFIX,wenxuecity.com
+DOMAIN-SUFFIX,hmoegirl.com
 
 # 分裂或独立势力 (Separatist/Independence Movements)
 DOMAIN-KEYWORD,dalailama
@@ -266,6 +267,7 @@ DOMAIN-SUFFIX,libertarianism.org
 DOMAIN-SUFFIX,cato.org
 DOMAIN-SUFFIX,lp.org
 DOMAIN-SUFFIX,thenation.com
+
 # 极端右派 (Radical Right)
 DOMAIN-KEYWORD,breitbart
 DOMAIN-KEYWORD,thedailywire
@@ -319,6 +321,10 @@ DOMAIN-KEYWORD,psiphon
 DOMAIN-KEYWORD,iyouport
 DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,dongtaiwang.com
+DOMAIN-SUFFIX,greatfire.org
+DOMAIN_SUFFIX,freeweibo.com
+DOMAIN_SUFFIX,freezhihu.org
+DOMAIN_SUFFIX,freewechat.com
 DOMAIN-SUFFIX,edoors.com
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,torproject.org
@@ -351,6 +357,8 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
+
 
 
 
