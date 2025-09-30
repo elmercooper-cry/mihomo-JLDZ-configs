@@ -228,9 +228,12 @@ DOMAIN-SUFFIX,oneplusnews.net
 DOMAIN-SUFFIX,secretchina.com
 
 # 极端左派 (Radical Left)
-DOMAIN-KEYWORD,radicalleft
 DOMAIN-KEYWORD,marxist
+DOMAIN-KEYWORD,maozhuyi
+DOMAIN-KEYWORD,radicalleft
+DOMAIN-KEYWORD,redchina
 DOMAIN-KEYWORD,redchinacn
+DOMAIN-KEYWORD,wenge
 DOMAIN-SUFFIX,communist.red
 DOMAIN-SUFFIX,cpusa.org
 DOMAIN-SUFFIX,icl-fi.org
@@ -244,9 +247,12 @@ DOMAIN-SUFFIX,wsws.org
 DOMAIN-SUFFIX,bu2021.xyz
 DOMAIN-SUFFIX,chinaworker.info
 DOMAIN-SUFFIX,chuangcn.org
+DOMAIN-SUFFIX,difangwenge.org
 DOMAIN-SUFFIX,jacobin.com
+DOMAIN-SUFFIX,maozhuyi.home.blog
 DOMAIN-SUFFIX,monthlyreview.org
 DOMAIN-SUFFIX,socialistworker.org
+DOMAIN-SUFFIX,wengewang.org
 
 # 极端白左 (Radical Social Justice/Woke)
 DOMAIN-KEYWORD,feminist
@@ -357,6 +363,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
