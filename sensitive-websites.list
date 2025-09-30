@@ -230,12 +230,14 @@ DOMAIN-SUFFIX,secretchina.com
 # 极端左派 (Radical Left)
 DOMAIN-KEYWORD,marxist
 DOMAIN-KEYWORD,maozhuyi
+DOMAIN-KEYWORD,iclfi
 DOMAIN-KEYWORD,radicalleft
 DOMAIN-KEYWORD,redchina
 DOMAIN-KEYWORD,redchinacn
 DOMAIN-KEYWORD,wenge
 DOMAIN-SUFFIX,communist.red
 DOMAIN-SUFFIX,cpusa.org
+DOMAIN-SUFFIX,iclfi.org
 DOMAIN-SUFFIX,icl-fi.org
 DOMAIN-SUFFIX,marxist.com
 DOMAIN-SUFFIX,marxist.tw
@@ -363,6 +365,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
