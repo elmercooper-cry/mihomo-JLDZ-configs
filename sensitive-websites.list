@@ -332,9 +332,9 @@ DOMAIN-KEYWORD,iyouport
 DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,greatfire.org
-DOMAIN_SUFFIX,freeweibo.com
-DOMAIN_SUFFIX,freezhihu.org
-DOMAIN_SUFFIX,freewechat.com
+DOMAIN-SUFFIX,freeweibo.com
+DOMAIN-SUFFIX,freezhihu.org
+DOMAIN-SUFFIX,freewechat.com
 DOMAIN-SUFFIX,edoors.com
 DOMAIN-SUFFIX,lantern.io
 DOMAIN-SUFFIX,torproject.org
@@ -367,6 +367,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
