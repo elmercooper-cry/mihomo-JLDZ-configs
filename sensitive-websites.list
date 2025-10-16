@@ -150,10 +150,14 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 
 # 其它宗教 (Other Religions)
+DOMAIN-SUFFIX,almightychr.wordpress.com
+DOMAIN-SUFFIX,christianitytoday.com
 DOMAIN-SUFFIX,christianstudy.com
 DOMAIN-SUFFIX,jw.org
 DOMAIN-SUFFIX,tgcchinese.org
 DOMAIN-SUFFIX,efcc.org
+DOMAIN-SUFFIX,zionchurch.org
+DOMAIN-SUFFIX,ziondaily.com
 
 # 有反华内容的主流媒体 (Mainstream Media with Anti-China Content)
 DOMAIN-KEYWORD,bbc
@@ -367,6 +371,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
