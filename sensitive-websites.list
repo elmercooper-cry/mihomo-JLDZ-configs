@@ -353,9 +353,8 @@ DOMAIN-SUFFIX,newsguardtech.com
 DOMAIN-SUFFIX,rsf.org
 
 # 敏感当局
+DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,ait.org.tw
-DOMAIN-SUFFIX,mac.gov.tw
-DOMAIN-SUFFIX,mnd.gov.tw
 DOMAIN-SUFFIX,cecc.gov
 DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,sis.gov.uk
@@ -371,6 +370,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
