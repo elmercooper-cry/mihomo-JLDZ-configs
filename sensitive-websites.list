@@ -191,6 +191,7 @@ DOMAIN-SUFFIX,theaustralian.com.au
 DOMAIN-KEYWORD,immediahk
 DOMAIN-KEYWORD,appledaily
 DOMAIN-SUFFIX,immediahk.net
+DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cup.com.hk
 DOMAIN-SUFFIX,inmediahk.org
 DOMAIN-SUFFIX,inside.com.tw
@@ -252,6 +253,7 @@ DOMAIN-SUFFIX,icl-fi.org
 DOMAIN-SUFFIX,marxist.com
 DOMAIN-SUFFIX,marxist.tw
 DOMAIN-SUFFIX,marxists.org
+DOMAIN-SUFFIX,proletarian.me
 DOMAIN-SUFFIX,redchinacn.net
 DOMAIN-SUFFIX,redchinacn.org
 DOMAIN-SUFFIX,rls.de
@@ -373,10 +375,10 @@ DOMAIN-SUFFIX,ipac.global
 # 这些是出现在某些机场阻断名单上但是内容上无法判断的网站
 DOMAIN-SUFFIX,ad2iction.com
 DOMAIN-SUFFIX,becomingaces.com
-DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
