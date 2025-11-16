@@ -329,7 +329,9 @@ DOMAIN-SUFFIX,iyouport.notion.site
 DOMAIN-SUFFIX,iyouport.org
 DOMAIN-SUFFIX,anarchyisorder.org
 DOMAIN-SUFFIX,anarchyinaction.org
+DOMAIN-SUFFIX,nightfall.buzz
 DOMAIN-SUFFIX,mises.org
+DOMAIN-SUFFIX,theanarchistlibrary.org
 
 # 信息自由和隐私 (Information Freedom and Privacy)
 DOMAIN-KEYWORD,breakgfw
@@ -375,6 +377,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
 
 
