@@ -1,6 +1,7 @@
 # 人权组织 (Human Rights Organizations)
 DOMAIN-KEYWORD,amnesty
 DOMAIN-KEYWORD,citizenpowerfor
+DOMAIN-KEYWORD,hri
 DOMAIN-KEYWORD,hrichina
 DOMAIN-KEYWORD,hrw
 DOMAIN-KEYWORD,outrightintl
@@ -25,6 +26,8 @@ DOMAIN-SUFFIX,cecc.gov
 DOMAIN-KEYWORD,2047
 DOMAIN-KEYWORD,8964
 DOMAIN-KEYWORD,89-64
+DOMAIN-KEYWORD,198964
+DOMAIN-KEYWORD,19890604
 DOMAIN-KEYWORD,anti-ccp
 DOMAIN-KEYWORD,antichina
 DOMAIN-KEYWORD,chinaexile
@@ -45,6 +48,7 @@ DOMAIN-KEYWORD,anticommunist
 DOMAIN-SUFFIX,2047.name
 DOMAIN-SUFFIX,2047.one
 DOMAIN-SUFFIX,2049project.org
+DOMAIN-SUFFIX,beijingspring.com
 DOMAIN-SUFFIX,bitterwinter.org
 DOMAIN-SUFFIX,cdt.media
 DOMAIN-SUFFIX,chinafile.com
@@ -52,6 +56,8 @@ DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,chinadissent.net
 DOMAIN-SUFFIX,chinadialogue.net
 DOMAIN-SUFFIX,chineselawandhistory.com
+DOMAIN-SUFFIX,chinapoliticalprisonerconcern.org
+DOMAIN-SUFFIX,cppc1989.blogspot.com
 DOMAIN-SUFFIX,huanghuagang.org
 DOMAIN-SUFFIX,modernchinastudies.org
 DOMAIN-SUFFIX,ned.org
@@ -187,20 +193,24 @@ DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,theaustralian.com.au
 
-# 港台媒体
+# 反华反共港台新马媒体
 DOMAIN-KEYWORD,immediahk
 DOMAIN-KEYWORD,appledaily
 DOMAIN-SUFFIX,immediahk.net
 DOMAIN-SUFFIX,chinapress.com.my
+DOMAIN-SUFFIX,cna.com
+DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cup.com.hk
 DOMAIN-SUFFIX,inmediahk.org
 DOMAIN-SUFFIX,inside.com.tw
 DOMAIN-SUFFIX,ltn.com.tw
 DOMAIN-SUFFIX,mpweekly.com
 DOMAIN-SUFFIX,news.agentm.tw
+DOMAIN-SUFFIX,photonmedia.net
 DOMAIN-SUFFIX,standnews.com
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,talk.news.pts.org
+DOMAIN-SUFFIX,thechasernews.co.uk
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,thenewslens.com
 DOMAIN-SUFFIX,tnlmedia.com
@@ -419,4 +429,5 @@ DOMAIN-SUFFIX,becomingaces.com
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
+
 
