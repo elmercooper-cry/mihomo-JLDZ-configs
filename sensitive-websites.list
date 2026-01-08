@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,hrw
 DOMAIN-KEYWORD,outrightintl
 DOMAIN-KEYWORD,chinaaid
 DOMAIN-KEYWORD,circle19
+DOMAIN-KEYWORD,weiquanwang
 DOMAIN-SUFFIX,amnesty.org
 DOMAIN-SUFFIX,chinaaid.org
 DOMAIN-SUFFIX,freedomhouse.org
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,article19.org
 DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,gijn.org
 DOMAIN-SUFFIX,cecc.gov
+DOMAIN-SUFFIX,weiquanwang.org
 
 # 海外反华反共组织 (Overseas Anti-China and Anti-CCP Organizations)
 DOMAIN-KEYWORD,2047
@@ -45,6 +47,9 @@ DOMAIN-KEYWORD,yesterdayprotests
 DOMAIN-KEYWORD,msguancha
 DOMAIN-KEYWORD,weijingsheng
 DOMAIN-KEYWORD,anticommunist
+DOMAIN-KEYWORD,64memo
+DOMAIN-KEYWORD,tiananmenmother
+DOMAIN-KEYWORD,8964museum
 DOMAIN-SUFFIX,2047.name
 DOMAIN-SUFFIX,2047.one
 DOMAIN-SUFFIX,2049project.org
@@ -72,6 +77,8 @@ DOMAIN-SUFFIX,chinauncensored.tv
 DOMAIN-SUFFIX,dforce.cc
 DOMAIN-SUFFIX,ucsdmodernchinesehistory.wordpress.com
 DOMAIN-SUFFIX,kan.gar.ooo
+DOMAIN-SUFFIX,64memo.com
+DOMAIN-SUFFIX,8964museum.org
 
 # 国内神殖反
 DOMAIN-KEYWORD,chonglang
@@ -79,6 +86,11 @@ DOMAIN-KEYWORD,pincong
 DOMAIN-KEYWORD,zhina
 DOMAIN-KEYWORD,esu
 DOMAIN-KEYWORD,fangshimin
+DOMAIN-KEYWORD,kanzhina
+DOMAIN-KEYWORD,tuchuang
+DOMAIN-KEYWORD,2049post
+DOMAIN-KEYWORD,2049bbs
+DOMAIN-KEYWORD,beitian
 DOMAIN-SUFFIX,chonglang.tv
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,zhina.wiki
@@ -88,6 +100,11 @@ DOMAIN-SUFFIX,program-think.blogspot.com
 DOMAIN-SUFFIX,shu.best
 DOMAIN-SUFFIX,wenxuecity.com
 DOMAIN-SUFFIX,hmoegirl.com
+DOMAIN-SUFFIX,kanzhina.com
+DOMAIN-SUFFIX,tuchuang.org
+DOMAIN-SUFFIX,2049post.org
+DOMAIN-SUFFIX,2049bbs.xyz
+DOMAIN-SUFFIX,beitian.me
 
 # 分裂或独立势力 (Separatist/Independence Movements)
 DOMAIN-KEYWORD,dalailama
@@ -100,6 +117,7 @@ DOMAIN-KEYWORD,freetibet
 DOMAIN-KEYWORD,uyghur
 DOMAIN-KEYWORD,uyghurcongress
 DOMAIN-KEYWORD,xizang-zhiye
+DOMAIN-KEYWORD,taiwannews
 DOMAIN-SUFFIX,freehk.org
 DOMAIN-SUFFIX,flowhongkong.net
 DOMAIN-SUFFIX,hkdc.us
@@ -112,6 +130,7 @@ DOMAIN-SUFFIX,uyghurcongress.org
 DOMAIN-SUFFIX,uyghurproject.org
 DOMAIN-SUFFIX,worlduyghurcongress.org
 DOMAIN-SUFFIX,xizang-zhiye.org
+DOMAIN-SUFFIX,taiwannews.com.tw
 
 # 法轮功 (Falun Gong)
 DOMAIN-KEYWORD,epochtimes
@@ -134,6 +153,7 @@ DOMAIN-KEYWORD,xinsheng
 DOMAIN-KEYWORD,zhengjian
 DOMAIN-KEYWORD,qi-gong
 DOMAIN-KEYWORD,zhuichaguoji
+DOMAIN-KEYWORD,visiontimes
 DOMAIN-SUFFIX,chenpokongvip.com
 DOMAIN-SUFFIX,dafahao.com
 DOMAIN-SUFFIX,daijiyuan.com
@@ -159,6 +179,8 @@ DOMAIN-SUFFIX,xinsheng.net
 DOMAIN-SUFFIX,yuming.qxbbs.org
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhuichaguoji.org
+DOMAIN-SUFFIX,visiontimes.com
+DOMAIN-SUFFIX,visiontimes.org
 
 # 其它宗教 (Other Religions)
 DOMAIN-SUFFIX,almightychr.wordpress.com
@@ -180,6 +202,7 @@ DOMAIN-KEYWORD,nyt
 DOMAIN-KEYWORD,voachinese
 DOMAIN-KEYWORD,rfa
 DOMAIN-KEYWORD,rfi
+DOMAIN-KEYWORD,hongkongfp
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbc.co.uk
@@ -201,6 +224,7 @@ DOMAIN-SUFFIX,chinapress.com.my
 DOMAIN-SUFFIX,cna.com
 DOMAIN-SUFFIX,cna.com.tw
 DOMAIN-SUFFIX,cup.com.hk
+DOMAIN-SUFFIX,hongkongfp.com
 DOMAIN-SUFFIX,inmediahk.org
 DOMAIN-SUFFIX,inside.com.tw
 DOMAIN-SUFFIX,ltn.com.tw
@@ -230,6 +254,7 @@ DOMAIN-KEYWORD,jinpianwang
 DOMAIN-KEYWORD,mingjinglive
 DOMAIN-KEYWORD,mingjingnews
 DOMAIN-KEYWORD,oneplusnews
+DOMAIN-KEYWORD,project-syndicate
 DOMAIN-KEYWORD,secretchina
 DOMAIN-KEYWORD,huanglad
 DOMAIN-KEYWORD,dwnews
@@ -274,6 +299,11 @@ DOMAIN-KEYWORD,prolewiki
 DOMAIN-KEYWORD,leftcom
 DOMAIN-KEYWORD,councilcommunism
 DOMAIN-KEYWORD,longlivemarxleninmaoism
+DOMAIN-KEYWORD,socialistalternative
+DOMAIN-KEYWORD,socialistworld
+DOMAIN-KEYWORD,isreview
+DOMAIN-KEYWORD,szhgh
+DOMAIN-KEYWORD,66833
 DOMAIN-SUFFIX,marxist.com
 DOMAIN-SUFFIX,marxist.tw
 DOMAIN-SUFFIX,socialistappeal.org
@@ -320,6 +350,11 @@ DOMAIN-SUFFIX,monthlyreview.org
 DOMAIN-SUFFIX,communist.red
 DOMAIN-SUFFIX,bu2021.xyz
 DOMAIN-SUFFIX,rls.de
+DOMAIN-SUFFIX,socialistalternative.org
+DOMAIN-SUFFIX,socialistworld.net
+DOMAIN-SUFFIX,isreview.org
+DOMAIN-SUFFIX,szhgh.com
+DOMAIN-SUFFIX,66833.com
 
 # 极端白左 (Radical Social Justice/Woke)
 DOMAIN-KEYWORD,feminist
@@ -348,6 +383,9 @@ DOMAIN-KEYWORD,infowars
 DOMAIN-KEYWORD,stormfront
 DOMAIN-KEYWORD,dailystormer
 DOMAIN-KEYWORD,fdesouche
+DOMAIN-KEYWORD,hanminzu
+DOMAIN-KEYWORD,hnh
+DOMAIN-KEYWORD,jujuewang
 DOMAIN-SUFFIX,americanfreepress.net
 DOMAIN-SUFFIX,americanfreepress.us
 DOMAIN-SUFFIX,theblaze.com
@@ -367,15 +405,30 @@ DOMAIN-SUFFIX,election-fraud.com
 DOMAIN-SUFFIX,electionfraud.heritage.org
 DOMAIN-SUFFIX,heritage.org
 DOMAIN-SUFFIX,bloodandhonourworldwide.co.uk
+DOMAIN-SUFFIX,hanminzu.com
+DOMAIN-SUFFIX,hnh.cc
+DOMAIN-SUFFIX,jujuewang.top
 
 # 安那其或类似思潮 (Anarchist/Similar Ideologies)
 DOMAIN-KEYWORD,anarchist
 DOMAIN-KEYWORD,anarchy
 DOMAIN-KEYWORD,iyouport
+DOMAIN-KEYWORD,anarchychina
+DOMAIN-KEYWORD,voidnetwork
+DOMAIN-KEYWORD,chinaanarchism
+DOMAIN-KEYWORD,anarhija
+DOMAIN-KEYWORD,anarchyweekly
+DOMAIN-KEYWORD,anarchistnews
+DOMAIN-KEYWORD,libcom
+DOMAIN-KEYWORD,itsgoingdown
+DOMAIN-KEYWORD,radicalpress
+DOMAIN-KEYWORD,anarkismo
+DOMAIN-KEYWORD,blackrosefed
 DOMAIN-SUFFIX,anarchistlibraries.net
 DOMAIN-SUFFIX,anarchiststudies.org
 DOMAIN-SUFFIX,polcompballanarchy.miraheze.org
 DOMAIN-SUFFIX,polcompball-anarchy.miraheze.org
+DOMAIN-SUFFIX,zhpolandball.miraheze.org
 DOMAIN-SUFFIX,crimethinc.com
 DOMAIN-SUFFIX,iyouport.com
 DOMAIN-SUFFIX,iyouport.net
@@ -386,6 +439,10 @@ DOMAIN-SUFFIX,anarchyinaction.org
 DOMAIN-SUFFIX,nightfall.buzz
 DOMAIN-SUFFIX,mises.org
 DOMAIN-SUFFIX,theanarchistlibrary.org
+DOMAIN-SUFFIX,voidnetwork.gr
+DOMAIN-SUFFIX,riseup.net
+DOMAIN-SUFFIX,anarhija.org
+DOMAIN-SUFFIX,libcom.org
 
 # 信息自由和隐私 (Information Freedom and Privacy)
 DOMAIN-KEYWORD,breakgfw
@@ -394,6 +451,8 @@ DOMAIN-KEYWORD,torproject
 DOMAIN-KEYWORD,wujieliulan
 DOMAIN-KEYWORD,psiphon
 DOMAIN-KEYWORD,iyouport
+DOMAIN-KEYWORD,netvigator
+DOMAIN-KEYWORD,onionshare
 DOMAIN-SUFFIX,breakgfw.com
 DOMAIN-SUFFIX,dongtaiwang.com
 DOMAIN-SUFFIX,greatfire.org
@@ -408,10 +467,12 @@ DOMAIN-SUFFIX,citizenlab.ca
 DOMAIN-SUFFIX,eff.org
 DOMAIN-SUFFIX,freedom.press
 DOMAIN-SUFFIX,geph.io
-DOMAIN-SUFFIX,interseclab.org
 DOMAIN-SUFFIX,ooni.io
 DOMAIN-SUFFIX,newsguardtech.com
 DOMAIN-SUFFIX,rsf.org
+DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,onionshare.org
+DOMAIN-SUFFIX,bridges.torproject.org
 
 # 敏感当局
 DOMAIN-SUFFIX,gov.tw
@@ -423,6 +484,12 @@ DOMAIN-SUFFIX,asio.gov.au
 DOMAIN-SUFFIX,nsira-ossnr.gc.ca
 DOMAIN-SUFFIX,ipac.global
 
+#敏感非主流社交网站(Alt-tech)
+DOMAIN-SUFFIX,ganjingworld.com
+DOMAIN-SUFFIX,gettr.com
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-SUFFIX,parler.com
+
 # 其它 (Other)
 # 这些是出现在某些机场阻断名单上但是内容上无法判断的网站
 DOMAIN-SUFFIX,ad2iction.com
@@ -430,6 +497,3 @@ DOMAIN-SUFFIX,becomingaces.com
 DOMAIN-SUFFIX,cool3c.com
 DOMAIN-SUFFIX,everylittled.com
 DOMAIN-SUFFIX,sportsv.net
-
-
-
