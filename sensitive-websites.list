@@ -216,6 +216,8 @@ DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,theaustralian.com.au
+DOMAIN-SUFFIX,thediplomat.com
+DOMAIN-SUFFIX,foreignaffairs.com
 
 # 反华反共港台新马媒体
 DOMAIN-KEYWORD,immediahk
